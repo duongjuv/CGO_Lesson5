@@ -1,2 +1,2 @@
-# CGO_Lesson5
-Force and Tourque
+# CGO_Lesson2
+ bai tap learnCGO
